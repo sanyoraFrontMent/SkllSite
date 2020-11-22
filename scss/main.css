@@ -183,14 +183,15 @@ footer {
     width: inherit; }
 
   footer .footer {
-    display: block; }
+    display: block;
+    margin: 0 20px;}
     footer .footer p {
       margin: 30px 0; }
     footer .footer .mob {
       display: flex;
       color: #fff; }
       footer .footer .mob li {
-        margin-right: 20px; }
+        margin-right: 40px; }
         footer .footer .mob li:last-child {
           margin-right: 0; } }
 
